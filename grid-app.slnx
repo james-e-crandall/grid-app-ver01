@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="grid-app.AppHost/grid-app.AppHost.csproj" />
+  <Project Path="grid-app.ServiceDefaults/grid-app.ServiceDefaults.csproj" />
+</Solution>
